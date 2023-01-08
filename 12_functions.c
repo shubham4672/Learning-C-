@@ -7,9 +7,7 @@
 #include <stdio.h>
 int main() // main function
 {
-    printf("Top\n");
     sayHi();
-    printf("Bottom\n");
     return 0;
 }
 
